@@ -1,5 +1,9 @@
 # Deploy FastAPI Scikit-learn Microservice on AWS EC2
 
+
+You can watch this video tutorial > [link tutorial YOUTUBE](https://youtu.be/hmAJKgMIyCk "link tutorial")
+
+
 **install dependencies Python**
 
     $ python -m venv venv
